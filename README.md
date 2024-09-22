@@ -25,4 +25,8 @@ This is a full-stack web application built using **React.js**, **Redux**, **Tail
 
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   cd your-repository-name ```
+2. **Install Dependencies**
+   ``` cd client
+       npm install```
+       
